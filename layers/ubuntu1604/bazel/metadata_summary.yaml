@@ -32,8 +32,6 @@ DEBS_TARBALL:
     version: 2.7.5-1ubuntu0.16.04.2
   - name: perl
     version: 5.22.1-9ubuntu0.9
-  - name: perl-base
-    version: 5.22.1-9ubuntu0.9
   - name: perl-modules-5.22
     version: 5.22.1-9ubuntu0.9
   - name: unzip
