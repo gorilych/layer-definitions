@@ -6,8 +6,6 @@ DEBS_TARBALL:
     version: 2.30-21ubuntu1~18.04.4
   - name: binutils-x86-64-linux-gnu
     version: 2.30-21ubuntu1~18.04.4
-  - name: ca-certificates
-    version: 20201027ubuntu0.18.04.1
   - name: ed
     version: 1.10-2.1
   - name: file
@@ -55,8 +53,6 @@ DEBS_TARBALL:
   - name: patch
     version: 2.7.6-2ubuntu1.1
   - name: perl
-    version: 5.26.1-6ubuntu0.5
-  - name: perl-base
     version: 5.26.1-6ubuntu0.5
   - name: perl-modules-5.26
     version: 5.26.1-6ubuntu0.5
