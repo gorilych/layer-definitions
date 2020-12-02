@@ -8,8 +8,6 @@ DEBS_TARBALL:
     version: 8.4.0-1ubuntu1~18.04
   - name: libc-dev-bin
     version: 2.27-3ubuntu1.3
-  - name: libc6
-    version: 2.27-3ubuntu1.3
   - name: libc6-dev
     version: 2.27-3ubuntu1.3
   - name: libcilkrts5
@@ -33,4 +31,4 @@ DEBS_TARBALL:
   - name: libubsan0
     version: 7.5.0-3ubuntu1~18.04
   - name: linux-libc-dev
-    version: 4.15.0-124.127
+    version: 4.15.0-126.129
